@@ -1,0 +1,8 @@
+[package]
+name = "rust-beginner-projects"
+version = "0.6.0"
+authors = ["Lorenzo Gurri <lorenzog@tuta.io>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.4"
